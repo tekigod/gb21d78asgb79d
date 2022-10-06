@@ -11,4 +11,4 @@ def func(n: int) -> str:
         n //= 2
     return num
 number = int(input('Введите число: '))
-print(f'десятичное число {number} -> двоичное число {func(number)}')
+print(f'Десятичное число {number} -> Двоичное число {func(number)}')
