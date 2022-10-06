@@ -16,4 +16,4 @@ for i in range(5):
     my_list.append(randint(0, 16)) 
 
 print(my_list)
-print(f'на нечётных позициях элементы {my_list[1]} и {my_list[3]}, ответ: {summ_my_list(my_list)}')
+print(f'На нечётных позициях элементы {my_list[1]} и {my_list[3]}, ответ: {summ_my_list(my_list)}')
